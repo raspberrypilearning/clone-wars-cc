@@ -1,14 +1,11 @@
-# clone-wars-cc
+# Clone Wars
 
-![clone-wars-cc](banner.png)
+![Clone Wars](/en/images/banner.png)
 
-Find the project online at [projects.raspberrypi.org/en/projects/clone-wars-cc](https://projects.raspberrypi.org/en/projects/clone-wars-cc)
-
-## Resources
-For project materials and solutions, see [en/resources](https://github.com/raspberrypilearning/clone-wars-cc/tree/master/en/resources) and [en/solutions](https://github.com/raspberrypilearning/clone-wars-cc/tree/master/en/solutions).
+Find the project online at [projects.raspberrypi.org/en/projects/clone-wars](https://projects.raspberrypi.org/en/projects/clone-wars)
 
 ## Contributing
 See [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ## Licence
- See [LICENCE.md](LICENCE.md)
+See [LICENSE.md](LICENSE.md)
