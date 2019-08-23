@@ -1,6 +1,6 @@
 --- no-print ---
 
-This is the **Scratch 3** version of the project.
+This project has been prepared for **Scratch 3**.
 
 --- /no-print ---
 
