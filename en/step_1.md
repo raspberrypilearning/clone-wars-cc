@@ -58,6 +58,7 @@ title: What you will learn
 + How to make sprites move using keyboard input
 + How to clone sprites to make copies of them
 + How to use 'broadcast' and 'receive blocks' to send messages
++ Understand the skills which are developed towards a career involving Computing
 
 --- /collapse ---
 
