@@ -2,7 +2,7 @@
 
 Have a go at our 'Create your own world' project, where you’ll create your own adventure game!
 
-You will find this project on the module pathway.
+You will find this project in the module pathway.
 
 --- no-print ---
 
