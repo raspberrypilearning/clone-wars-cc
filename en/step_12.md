@@ -21,3 +21,5 @@ You'll use the arrow keys to move your character around in the world.
 ![showcase.png](images/create-showcase.png)
 
 --- /print-only ---
+
+![progress bar](images/s2-5.png)
