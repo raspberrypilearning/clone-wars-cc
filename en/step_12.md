@@ -1,4 +1,4 @@
-## What next?
+## What have you learned?
 
 Have a go at our 'Create your own world' project, where you’ll create your own adventure game!
 
@@ -23,3 +23,8 @@ You'll use the arrow keys to move your character around in the world.
 --- /print-only ---
 
 ![progress bar](images/s2-5.png)
+
+Click on the 'Click me' button to try the next project:
+
+<a href="https://codeclub.org/en/scratch2">
+<img src="images/Clickme.png">
