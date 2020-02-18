@@ -1,6 +1,6 @@
 hero_image: images/clone-wars.png
 theme: violet
-listed: true
+listed: false
 copyedit: true
 title: Clone wars
 description: Create a game in which you have to save the Earth from space monsters
